@@ -1,0 +1,7 @@
+include ':app'
+
+def opencvsdk = '../OpenCV-android-sdk'
+include ':opencv'
+project(':opencv').projectDir = new File(opencvsdk + '/sdk')
+//https://medium.com/beesightsoft/setup-opencv-android-without-install-opencv-manager-apk-bea6acf9e2c1
+include ':openCVLibrary346'

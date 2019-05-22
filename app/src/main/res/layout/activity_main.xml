@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--https://blog.codeonion.com/2016/04/09/show-camera-on-android-app-using-opencv-for-android/-->
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/opencvView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"
+        opencv:show_fps="true"
+        opencv:camera_id="any"/>
+
+    <Button
+        android:id="@+id/switchCameraBtn"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:onClick="swapCamera"
+        android:text="Switch Camera" />
+
+
+</RelativeLayout >

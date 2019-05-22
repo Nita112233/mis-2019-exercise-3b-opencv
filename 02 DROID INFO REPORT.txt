@@ -1,0 +1,223 @@
+DROID INFO REPORT
+
+
+DEVICE
+Model: ASUS_Z01HD (WW_Z01H)
+Manufacturer: asus
+Baseband Version: M3.10.47.23-Hades_080001
+RIL Version: Qualcomm RIL 1.0
+Build Number: OPR1.170623.026.WW_user_80.30.76.64_20190108
+Build Fingerprint: asus/WW_Z01H/ASUS_Z01H_1:8.0.0/OPR1.170623.026/WW_80.30.76.64_20190108:user/release-keys
+Bootloader: unknown
+Java VM: ART 2.1.0
+OS Version: O (8.0.0)
+SDK: 26
+
+DISPLAY
+Resolution: Full HD, 1080x1920 pixels
+Software Density: 480 dpi (xxhdpi)
+Refresh Rate: 60 Hz
+
+PROCESSOR
+CPU Architecture: ARMv8-A
+Board: msm8953
+Chipset: Qualcomm Technologies, Inc MSM8953
+Cores: 8
+Clock Speed: 1689 MHz - 2016 MHz
+Instruction Sets: arm64-v8a
+CPU Features: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU Governor: interactive
+Kernel Version: 3.18.66-perf-g5984135
+Kernel Architecture: aarch64
+
+GRAPHICS
+Renderer: Adreno (TM) 506
+Vendor: Qualcomm
+OpenGL Version: OpenGL ES 3.2
+
+RAM
+Total: 3601 MB
+Java Heap: 192 MB
+
+STORAGE
+Internal: 52.5 GB
+External: 29.7 GB
+
+PRIMARY CAMERA
+Resolution: 11.6 MP
+Flash: Yes
+Video Resolution: 4K UHD, 3840x2160
+Supported Resolutions: 
+    Image:
+    3928x2944
+    3928x2208
+    3840x2880
+    3840x2160
+    3264x2448
+    3264x1836
+    2328x1748
+    2328x1314
+    2080x1560
+    2080x1170
+    2048x1536
+    2048x1152
+    1964x1472
+    1964x1104
+    1920x1440
+    1920x1080
+    1600x1200
+    1600x900
+    1280x960
+    1280x720
+    800x600
+    720x480
+    640x480
+    480x360
+    480x320
+    320x240
+    176x144
+
+    Video:
+    3840x2160 (4K UHD)
+    3264x1836
+    2328x1748
+    2328x1314
+    2080x1560
+    2080x1170
+    2048x1536
+    2048x1152
+    1964x1472
+    1964x1104
+    1920x1440
+    1920x1080 (Full HD)
+    1600x1200
+    1600x900
+    1280x960
+    1280x720 (HD)
+    800x600
+    720x480
+    640x480 (VGA)
+    480x360
+    480x320
+    320x240
+    176x144
+
+SECONDARY CAMERA
+Resolution: 13 MP
+Video Resolution: 4K UHD, 3840x2160
+Supported Resolutions: 
+    Image:
+    4160x3120
+    4160x2340
+    4096x3072
+    4096x2304
+    4000x3000
+    3928x2944
+    3928x2208
+    3840x2880
+    3840x2160
+    3264x2448
+    3264x1836
+    2328x1748
+    2328x1314
+    2080x1560
+    2080x1170
+    2048x1536
+    2048x1152
+    1964x1472
+    1964x1104
+    1920x1440
+    1920x1080
+    1600x1200
+    1600x900
+    1280x960
+    1280x720
+    800x600
+    720x480
+    640x480
+    480x360
+    480x320
+    320x240
+    176x144
+
+    Video:
+    3840x2160 (4K UHD)
+    3264x1836
+    2328x1748
+    2328x1314
+    2080x1560
+    2080x1170
+    2048x1536
+    2048x1152
+    1964x1472
+    1964x1104
+    1920x1440
+    1920x1080 (Full HD)
+    1600x1200
+    1600x900
+    1280x960
+    1280x720 (HD)
+    800x600
+    720x480
+    640x480 (VGA)
+    480x360
+    480x320
+    320x240
+    176x144
+
+FEATURES
+Bluetooth: Yes
+Bluetooth LE: Yes
+GPS: Yes
+NFC: No
+USB Accessory: Yes
+WiFi: Yes
+WiFi Direct: Yes
+
+BATTERY
+Technology: Li-ion
+Health: Good
+
+SENSORS
+Invensense ICM ACC
+Invensense ICM ACC Uncalibrated
+AK09916 Magnetometer
+AK09916 Magnetometer Uncalibrated
+Invensense ICM GYRO
+Invensense ICM GYRO Uncalibrated
+Invensense ICM ACC -Wakeup Secondary
+Invensense ICM ACC Uncalibrated -Wakeup Secondary
+AK09916 Magnetometer -Wakeup Secondary
+AK09916 Magnetometer Uncalibrated -Wakeup Secondary
+Invensense ICM GYRO -Wakeup Secondary
+Invensense ICM GYRO Uncalibrated -Wakeup Secondary
+Gravity
+Linear Acceleration
+Rotation Vector
+Step Detector
+Step Counter
+Significant Motion Detector
+Game Rotation Vector
+GeoMagnetic Rotation Vector
+Orientation
+Tilt Detector
+Gravity -Wakeup Secondary
+Linear Acceleration -Wakeup Secondary
+Rotation Vector -Wakeup Secondary
+Step Detector -Wakeup Secondary
+Step Counter -Wakeup Secondary
+Game Rotation Vector -Wakeup Secondary
+GeoMagnetic Rotation Vector -Wakeup Secondary
+Orientation -Wakeup Secondary
+AMD
+RMD
+Basic Gestures
+Facing
+Pedometer
+Motion Accel
+Coarse Motion Classifier
+ASUS Lightsensor Ambient Light Sensor
+ASUS Proximitysensor
+
+
+Created by Droid Info
